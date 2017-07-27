@@ -1,0 +1,6 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+c:\users\lovita\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.pdb
